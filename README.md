@@ -22,7 +22,7 @@ I’m a **Frontend & React.js Developer** with expertise in modern, responsive, 
 ### 📫 Reach Me
 - Email: [mustafamanahil2@gmail.com]  
 - LinkedIn: [https://www.linkedin.com/in/manahil-mustafa-/]  
-- Portfolio: [https://manahil-tech-11cz.vercel.app/]  
+- Portfolio: [https://www.manahilmustafa.dev/]  
 
 ### ⚡ Fun Fact
 - I enjoy creating **smooth, eye-catching animations** for web interfaces  
